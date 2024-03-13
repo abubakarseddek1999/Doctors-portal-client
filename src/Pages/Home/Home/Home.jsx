@@ -1,4 +1,5 @@
 import Banner from "../Banner/Banner";
+import MakeAppointment from "../MakeAppoionment/MakeAppointment";
 
 
 const Home = () => {
@@ -11,6 +12,8 @@ const Home = () => {
             </Helmet> */}
 
            <Banner></Banner>
+           <MakeAppointment></MakeAppointment>
+          
             
         </div>
     );
