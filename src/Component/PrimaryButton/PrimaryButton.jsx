@@ -3,7 +3,7 @@
 const PrimaryButton = ({children}) => {
     return (
         <button 
-        className="btn btn-primary bg-gradient-to-r from-teal-400 to-cyan-500 text-white">{children}</button>
+        className="btn btn-primary bg-gradient-to-r from-teal-400 to-cyan-500 text-white ">{children}</button>
     );
 };
 

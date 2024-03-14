@@ -3,7 +3,7 @@ import appointment from '../../../assets/images/appointment.png'
 import doctor from '../../../assets/images/doctor.png'
 const MakeAppointment = () => {
     return (
-        <section className='mt-32 max-w-7xl mx-auto' style={{
+        <section className='mt-32 ' style={{
             background: `url(${appointment})`
         }}>
             <div className="">
